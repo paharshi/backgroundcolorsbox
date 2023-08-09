@@ -1,0 +1,32 @@
+/* .container{
+    background-color: rgb(49, 19, 200);
+    width: 20%;
+    height:250px;
+    margin: 10px;
+    border-radius: solid 2px;
+    cursor:pointer; 
+}  */
+
+
+
+#myDiv{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+/* #container{
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+    background-color: blue;
+} */
